@@ -7,10 +7,29 @@
 }
 
 body {
-
+  width: 40%;
+  min-width: 20%;
+  max-width: 120%;
+  margin: 0 auto;
+  padding: 15px 30px;
 }
 
 /* HEADER */
+
+.header.container{
+  padding-bottom: 15px;
+}
+
+.upper-header {
+  background-color: #e579e6;
+  height: 60px;
+}
+
+.lower-header{
+  background-color: #e1d67a;
+  height: 250px;
+  margin-top: 15px;
+}
 
 /* MAIN */
 
